@@ -1,3 +1,4 @@
+#file data base
 [string] $DBFullName = ".\ipdb.txt"
 Function Add-BanRDP {
     param(
